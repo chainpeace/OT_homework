@@ -1,0 +1,5 @@
+
+Ubuntu 16.04.1 LTS / kernel 4.4.0
+Ubuntu 16.04.6 LTS / kernel 4.15.0
+Ubuntu 18.04.2 LTS / kernel 4.18.0
+
